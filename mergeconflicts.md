@@ -11,7 +11,7 @@ Merge conflicts arise from different scenarios. Sometimes they occur because you
 You cannot resolve merge conflicts from only the Git command line. First, you must first tell Git which of the competing changes to keep in the final merged file. To resolve the conflict without using a merge tool, you can edit the merged file in your text editor or in GitHub's conflict editor. Both of these methods require that you manually remove Git's conflict markers: 
  `<<<<<<<`, `=======`, `>>>>>>>`.  
 
-Sublime Merge simplifies merge conflict resolution with an interface that eliminates the need to manually edit the merged file.
+Sublime Merge simplifies merge conflict resolution with a **Merge Tool** that eliminates the need to manually edit the merged file.
 
 <img width="766" height="333" alt="The merge tool UI displays two conflicting commits in separate panes next to a merged file pane in the middle." src="https://github.com/user-attachments/assets/ecaea09e-eadf-494c-b3a0-a6bd856ddb07">
 
